@@ -9,4 +9,5 @@ Each of the other rooms, aka games, has its own unique style.
 The game saves your progress using a self-developed saving system and encryption.
 
 -The whole game was created from scratch and involves no plagiarism. Most of the assets are also self-created
+
 -The main code we wrote is in Assets/Scripts
